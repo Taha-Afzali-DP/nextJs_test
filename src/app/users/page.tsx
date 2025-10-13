@@ -9,6 +9,7 @@ export default function userList() {
       <Link href="/users/2">user 2</Link>
       <br />
       <Link href="/users/3">user 3</Link>
+      <br />
     </div>
   );
 }
