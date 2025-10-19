@@ -1,4 +1,5 @@
 "use client";
+import "./style-index.css";
 
 import Link from "next/link";
 
